@@ -1,0 +1,8 @@
+#Requirements without version specifiers
+itsdangerous==2.0.1
+pandas
+Jinja2==3.0.3
+Flask==1.1.1
+sklearn==0.0
+seldon-core==1.12.0
+joblib==1.1.0
